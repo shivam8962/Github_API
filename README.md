@@ -56,8 +56,9 @@ To run this project locally, follow these steps:
     npm start
     ```
 
-# Hit the follow button if you like this project
-# Future Project Suggestion - Connect on Linkedin
+# Support: 
 ```bash
-    THANK YOU 😍
+    Hit the follow button if you like this project
+    Future Project Suggestion - Connect on Linkedin
+                                                     THANK YOU 😍
     ```
