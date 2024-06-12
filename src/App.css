@@ -1,0 +1,27 @@
+.navbar-text {
+  display: inline-block;
+  vertical-align: top;
+  height: 80px;
+  line-height: 80px;
+  margin-left: 10px;
+  font-size: 24px;
+  color: white;
+}
+
+body {
+  background-image: url('./components/img/background.webp');
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+.nav-tabs .nav-link {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.nav-tabs .nav-link.active {
+  color: black !important;
+  background-color: white !important;
+}
