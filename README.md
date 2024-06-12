@@ -17,9 +17,6 @@ GitHub API User Search is a simple application that allows users to search for G
     
 - Responsive and user-friendly interface.
 
-## Demo
-
-[Include a link to a live demo if available]
 
 ## Screenshots
 <div>
