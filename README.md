@@ -1,4 +1,4 @@
-# GitHub API User Search
+# GitHub User Search
 
 ## Overview
 
