@@ -57,8 +57,8 @@ To run this project locally, follow these steps:
     ```
 
 # Support: 
-```bash
     Hit the follow button if you like this project
     Future Project Suggestion - Connect on Linkedin
-                                                     THANK YOU 😍
+```bash
+                  THANK YOU 😍
     ```
