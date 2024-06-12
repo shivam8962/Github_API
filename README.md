@@ -2,12 +2,12 @@
 
 ## Overview
 
-GitHub API User Search is a simple application that allows users to search for GitHub profiles by username. It utilizes the GitHub REST API to fetch user data and displays relevant information such as the user's name, followers, following, repositories and more.
+Welcome to GitHub API User Search! 🚀 This is a simple application designed to help you explore GitHub profiles quickly and effortlessly. Powered by the GitHub REST API, it fetches user data and presents it in a clean, intuitive interface.
 
 ## Features
 
-- Search for GitHub users by username.
-- Display user profile information including:
+- **Effortless Search**: Find GitHub users by username with ease.
+- **Comprehensive Profile Information**: Get detailed insights into user profiles, including:
   - Username
   - Profile picture
   - Number of followers
@@ -15,23 +15,25 @@ GitHub API User Search is a simple application that allows users to search for G
   - Links to repositories
   - Commit History
     
-- Responsive and user-friendly interface.
-
+- **Responsive Design**: Enjoy a seamless experience across all devices.
 
 ## Screenshots
+
+Check out how sleek it looks:
+
 <div>
-    <img src="./public/view_project/main.PNG" width="350"/>
-    <img src="./public/view_project/username_search.PNG" width="350"/>
+    <img src="./public/view_project/main.PNG" alt="Main Interface" width="350"/>
+    <img src="./public/view_project/username_search.PNG" alt="Search by Username" width="350"/>
 </div>
 
 <div>
-    <img src="./public/view_project/repositories.PNG" width="350"/>
-    <img src="./public/view_project/commit_history.PNG" width="350"/>
+    <img src="./public/view_project/repositories.PNG" alt="User Repositories" width="350"/>
+    <img src="./public/view_project/commit_history.PNG" alt="Commit History" width="350"/>
 </div>
 
 ## Installation
 
-To run this project locally, follow these steps:
+Ready to give it a spin? Follow these steps:
 
 1. **Clone the repository:**
 
@@ -42,23 +44,18 @@ To run this project locally, follow these steps:
 
 2. **Install dependencies:**
 
-    For a Node.js environment, run:
-
     ```bash
     npm install
     ```
 
 3. **Run the application:**
 
-    For a Node.js environment, run:
-
     ```bash
     npm start
     ```
 
-# Support: 
+# Support
 
-    Hit the follow button if you like this project
-    Future Project Suggestion - Connect on Linkedin
-    
-  **THANK YOU 😍**
+Enjoyed using this project? Give it a star! For future project ideas or collaborations, connect with me on LinkedIn.
+
+**THANK YOU 😍**
