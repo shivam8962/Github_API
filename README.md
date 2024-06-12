@@ -59,6 +59,5 @@ To run this project locally, follow these steps:
 # Support: 
     Hit the follow button if you like this project
     Future Project Suggestion - Connect on Linkedin
-```bash
-                  THANK YOU 😍
-    ```
+    
+  **THANK YOU 😍**
