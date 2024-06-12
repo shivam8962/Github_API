@@ -23,13 +23,13 @@ GitHub API User Search is a simple application that allows users to search for G
 
 ## Screenshots
 <div>
-    <img src="./public/view_project/main.PNG" width="200"/>
-    <img src="./public/view_project/username_search.PNG" width="200"/>
+    <img src="./public/view_project/main.PNG" width="500"/>
+    <img src="./public/view_project/username_search.PNG" width="500"/>
 </div>
 
 <div>
-    <img src="./public/view_project/repositories.PNG" width="200"/>
-    <img src="./public/view_project/commit_history.PNG" width="200"/>
+    <img src="./public/view_project/repositories.PNG" width="500"/>
+    <img src="./public/view_project/commit_history.PNG" width="500"/>
 </div>
 
 ## Installation
