@@ -9,11 +9,12 @@ GitHub API User Search is a simple application that allows users to search for G
 - Search for GitHub users by username.
 - Display user profile information including:
   - Username
-  - Number of public repositories
+  - Profile picture
   - Number of followers
   - Number of following
-  - Profile picture
   - Links to repositories
+  - Commit History
+    
 - Responsive and user-friendly interface.
 
 ## Demo
@@ -22,7 +23,8 @@ GitHub API User Search is a simple application that allows users to search for G
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/shivam8962/Github_API/master/public/view_project/main.png)
+![Screenshot](./public/view_project/main.PNG)
+
 
 
 ## Installation
@@ -32,8 +34,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/github_API.git
-    cd github-api-user-search
+    git clone https://github.com/your-username/Github_API.git
+    cd Github_API
     ```
 
 2. **Install dependencies:**
