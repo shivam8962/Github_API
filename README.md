@@ -55,3 +55,6 @@ To run this project locally, follow these steps:
     ```bash
     npm start
     ```
+
+# If you Like the Project hit the follow button, connect with me on linkedin for project suggestion
+- Thanks
