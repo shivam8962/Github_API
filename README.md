@@ -56,6 +56,6 @@ Ready to give it a spin? Follow these steps:
 
 # Support
 
-Enjoyed using this project? Give it a star⭐! For future project ideas or collaborations, connect with me on <a href="https://www.linkedin.com/in/shivamsingh8962/" target= "_blank">LinkedIn</a>.
+Enjoyed using this project? Give it a star⭐! For future project ideas or collaborations, connect with me on <a href="" target= "_blank">LinkedIn</a>.
 
 **THANK YOU 😍**
